@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./chunks/framework.CZSI3_dV.js";const d=JSON.parse('{"title":"Pollen","description":"","frontmatter":{"title":"Pollen"},"headers":[],"relativePath":"pollen.md","filePath":"pollen.md"}'),n={name:"pollen.md"};function a(l,r,s,c,p,i){return t(),o("div")}const m=e(n,[["render",a]]);export{d as __pageData,m as default};
